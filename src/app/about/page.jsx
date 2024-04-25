@@ -41,7 +41,7 @@ export default function page() {
               <p className=' pb-5'>
               The Legendary Chronicles: From Victories to Boss Battles, Jokes to Heartbreaks, this saga intertwines our past, present, and dreams of tomorrow. Join the adventure as we unravel the epic tale of our gaming journey!
               </p>
-              <Image src="https://images.pexels.com/photos/1293261/pexels-photo-1293261.jpeg?auto=compress&cs=tinysrgb&w=400" alt='' width="200" height="100" />
+              <Image src="https://images.pexels.com/photos/1293261/pexels-photo-1293261.jpeg?auto=compress&cs=tinysrgb&w=400" alt='wtf' width="200" height="100" />
               <p className=' pt-5'>
               Storylines Beyond Boundaries: Crossing epochs, merging our gaming past, present, and the shimmering dreams of our digital future. Every questline spins a yarn of resilience, evolution, and the unwavering chase for our gaming ambitions.
               </p>

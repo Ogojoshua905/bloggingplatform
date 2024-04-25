@@ -49,7 +49,7 @@ export default function Footer() {
         <PageLinks title="Instagram" link='/'/>
         <PageLinks title="Facebook" link='/'/>
         <PageLinks link='/'/>
-      </ol>
+      </ol>  
     
   </div>      
 
