@@ -55,7 +55,7 @@ export default function Footer() {
 
     </div>
     <div className='inline-block'>
-      <p>We're On Instagram</p>
+      <p>We&apos;re On Instagram</p>
       
     </div>
 
